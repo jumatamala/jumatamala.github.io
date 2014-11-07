@@ -1,6 +1,6 @@
 .caja-redes {
     margin: 0 auto;
-    padding: 15px;
+    padding: 10px;
     position: relative;
     width: 400px;
 }
@@ -93,4 +93,10 @@
 }
 .icon-button:hover .icon-linkedin, .icon-button:hover .icon-pinterest, .icon-button:hover .icon-twitter, .icon-button:hover .icon-facebook, .icon-button:hover .icon-google-plus, .icon-button:hover .icon-github  {
 	color: white;
+}
+#pfooter{
+	text-align: center;
+	margin-top: 20px;
+	padding: 0px;
+
 }

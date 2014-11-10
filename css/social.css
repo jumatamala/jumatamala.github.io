@@ -1,8 +1,9 @@
 .caja-redes {
     margin: 0 auto;
-    padding: 10px;
+    padding: 5px;
     position: relative;
-    width: 400px;
+    width: 350px;
+ 
 }
 .caja-redes a {
 	text-align: center;
@@ -31,7 +32,7 @@
 	-moz-transition: all 0.3s;
 	-o-transition: all 0.3s;
 	transition: all 0.3s;
-	width: 0;
+	
 }
 .icon-button:hover span {
 	width: 3em;

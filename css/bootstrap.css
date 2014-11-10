@@ -3881,6 +3881,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   border: 1px solid transparent;
 }
 @media (min-width: 768px) {
+  
   .abc{
 
   color: #555555;
@@ -3894,7 +3895,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 
 .abc:hover{
 
-    background: white;
+  background: white;
   opacity: 1;
   color: #111111;
   transform: scale(1.05);
@@ -3903,9 +3904,9 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   -o-transform: scale(1.05);
   border-radius: 10px;
   -webkit-transform:rotate(360deg);
-    -moz-transform:rotate(360deg);
-    -o-transform:rotate(360deg);
-    rotate(360deg);
+  -moz-transform:rotate(360deg);
+  -o-transform:rotate(360deg);
+  rotate(360deg);
 }
   
   .navbar {
